@@ -1,6 +1,9 @@
 # Comfy Craze
 "Comfy Craze" is a web-based project designed to help people discover and embrace a comfortable and cozy lifestyle. The project aims to curate and share comfortable products, lifestyle tips, and inspiration for a more relaxed and enjoyable daily life.
 
+## Live Site
+[Comfy Craze](https://comfy-craze.vercel.app/)
+
 
 # Running the Development Server
 
